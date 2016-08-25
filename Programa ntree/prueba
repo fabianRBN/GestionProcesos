@@ -1,0 +1,13 @@
+raiz temario IS
+hijo temario tema_1 Introduccion
+hijo temario tema_2 Analisis
+hijo temario tema_3 Disenio
+hijo tema_2 intro_1 Apartado_1
+hijo tema_2 intro_2 Apartado_2
+buscar tema_3
+buscar tema_4
+hermanos tema_1 intro_2
+hermanos intro_2 intro_1
+hermanos intro_3 temario
+hermanos temario intro_3
+imprimir
